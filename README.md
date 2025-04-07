@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a freshman Computer Science student at the University of Florida. I'm passionate about **software development** and fulfilling my curiosity by exploring the **latest technologies**.  
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on a **USATT Rating Calculator**  
+- 🔭 I’m currently working on a **Graphics Library**  
 - 🌱 I’m learning **Cybersecurity, Playwright, and Vue.js**
 - 📫 How to reach me: **supreettadeparti@gmail.com**  
 - ⚡ Fun fact: **I love ping pong 🏓**  
