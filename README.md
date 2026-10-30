@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a freshman Computer Science student at the Uni
 
 ## About Me  
 -  I’m currently working on a **Graphics Library**  
--  I’m learning **Cybersecurity, Geospatial Analysis, and .NET**
+-  I’m learning **Cybersecurity, Rust, and .NET**
 -  How to reach me: **supreettadeparti@gmail.com**  
 -  Fun fact: **I love ping pong 🏓**  
 
